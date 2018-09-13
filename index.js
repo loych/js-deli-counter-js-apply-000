@@ -6,6 +6,8 @@ return "Welcome, you are number" + num
 }
 console.log(takeANumber())
 console.log(takeANumber())
+console.log(takeANumber())
+console.log(takeANumber())
 
 function nowServing(katzDeliLine){
    if (katzDeliLine.length===0){
