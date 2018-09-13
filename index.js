@@ -1,4 +1,5 @@
 let welcoming=[];
+ let i=0
 function takeANumber(num){
   let i=0
    num +=1
