@@ -1,7 +1,6 @@
 let welcoming=[];
-
+let num=0
 function takeANumber(){
-   let num=0
    num +=1
 return "Welcome, you are number" + num
 }
