@@ -1,10 +1,11 @@
 let welcoming=[];
 function takeANumber(num){
+  let i=0
    num +=1
 return "Welcome, you are number" + num
 }
-console.log(takeANumber(10))
-console.log(takeANumber(10))
+console.log(takeANumber(i))
+console.log(takeANumber(i))
 
 function nowServing(katzDeliLine){
    if (katzDeliLine.length===0){
